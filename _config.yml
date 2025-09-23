@@ -1,12 +1,10 @@
 theme: jekyll-theme-minimal
 title: "Shuning Cheng"
-description: "Counselor • Higher Education • Generative AI for Student Well‑Being | 高校辅导员｜高等教育｜生成式AI心理健康"
+description: "Counselor • Higher Education • Generative AI for Student Well‑Being"
 logo: /assets/avatar.jpg
 show_downloads: false
 
 social_links:
   email: shuningcheng7@gmail.com
-  linkedin: https://www.linkedin.com/in/your-id
-  scholar: https://scholar.google.com/citations?user=XXXXX
   github: https://github.com/sncheng7
   cv: /assets/ShuningCheng_CV.pdf
