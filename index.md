@@ -60,9 +60,9 @@ Bachelor of Management in Human Resource Management
 
 ## Project
 
-**Mar 2021 &ndush; Mar 2025, University of Chinese Academy of Sciences, China**  
+**Mar 2021 &ndash; Mar 2025, University of Chinese Academy of Sciences, China**  
 University Counselor Studio Project  
-- Inaugural model construction project (university-recognized)  
+- Inaugural model construction project 
 - Grid-based student/class system for timely check-ins and communication (critical during the pandemic)  
 - PDCA cycle with an internal platform linking students and counselors  
 - “Counselor Afternoon Tea” and Party group guidance; UCAS-wide adoption  
