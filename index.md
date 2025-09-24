@@ -37,7 +37,7 @@ I’m currently preparing to **apply for a PhD in Education**. My current resear
 ## Experience
 
 **Mar 2021 &ndash; Jul 2025,  University of Chinese Academy of Sciences, China**  
-University Counselor & League Secretary, College of Life Sciences (Full-Time)
+University Counselor & League Secretary (Full-Time)
 - Student advising, crisis response, program coordination  
 - Data‑informed initiatives for student well‑being
 
