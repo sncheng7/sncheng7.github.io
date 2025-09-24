@@ -1,2 +1,6 @@
-@import "{{ site.theme }}";   
-.view { display: none !important; }  
+---
+---
+@import "{{ site.theme }}"; 
+.view, a.view { 
+  display: none !important;   
+}
