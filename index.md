@@ -69,10 +69,12 @@ University Counselor Studio Project
 
 
 **Mar 2020 &ndash; Apr 2020, Geo-demographic Analysis by ZIP — Disney+**  
-- Hierarchical clustering + ANOVA/t-tests on ZIP variables → transfer: equity & access analysis for outreach/services
+- Hierarchical clustering + ANOVA/t-tests on ZIP variables  
+→ transfer: equity & access analysis for outreach/services
 
 **Sep 2019 &ndash; Dec 2019, Large-Scale Customer Analytics — Williams-Sonoma**  
-- Segmented ~100k participants; regression for behavior prediction → transfer: student segmentation & retention modeling  
+- Segmented ~100k participants; regression for behavior prediction  
+→ transfer: student segmentation & retention modeling  
 
 ---
 
