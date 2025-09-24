@@ -62,9 +62,9 @@ Bachelor of Management in Human Resource Management(HRM), GPA: 85.00/100.00
 ## Hobbies
 
 **Cooking for Friends and Family**
-![Winter Melon Sauna Chicken](/assets/hobbies/cook/%E5%86%AC%E7%93%9C%E6%A1%91%E6%8B%BF%E9%B8%A1.jpg)
-![Roujiamo](/assets/hobbies/cook/肉夹馍.jpg)
-![Dinner With Friends](/assets/hobbies/cook/朋友聚餐.jpg)
+![Winter Melon Sauna Chicken](/assets/hobbies/cook/chicken.jpg)
+![Roujiamo](/assets/hobbies/cook/roujiamo.jpg)
+![Dinner With Friends](/assets/hobbies/cook/dinner.jpg)
 
 
 **Cat**
