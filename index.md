@@ -227,11 +227,44 @@ Bachelor of Management in Human Resource Management
 <div style="height:24px;"></div> 
 
 **Arts and Sports**  
+<!-- Responsive 4→2→1 grid for 4 photos -->
+<style>
+  .grid-4 {
+    display: grid;
+    gap: 14px;
+    grid-template-columns: repeat(4, minmax(0, 1fr)); /* 桌面4列 */
+    align-items: start;
+  }
+  @media (max-width: 900px) { .grid-4 { grid-template-columns: repeat(2, minmax(0,1fr)); } } /* 平板2列 */
+  @media (max-width: 600px) { .grid-4 { grid-template-columns: 1fr; } }                          /* 手机1列 */
+  .grid-4 img { width: 100%; height: auto; border-radius: 12px; display: block; }
+  .grid-wrap { max-width: 1200px; margin: 0 auto; }
+</style>
 
+<div class="grid-wrap">
+  <div class="grid-4">
+    <figure style="margin:0">
+      <img src="assets/hobbies/dance.jpg" alt="Dance" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Dance</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/sing.jpg" alt="Chorus" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Chorus</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/wutai.jpg" alt="Stage Play" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Stage Play</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/ball.jpg" alt="Air Volleyball" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Air Volleyball</figcaption>
+    </figure>
+  </div>
+</div>
 
 ---
 
-## Selected Materials / 资料
+## Selected Materials
 - **CV**： [PDF](/assets/ShuningCheng_CV.pdf)
 - **Contact**：Email — <chengshuning7@gmail.com>
 
