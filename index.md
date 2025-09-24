@@ -103,7 +103,7 @@ Bachelor of Management in Human Resource Management
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Pancakes</figcaption>
     </figure>
   </div>
-</div>
+</div>  
 
 **Cat**
 <!-- Responsive 3→2→1 grid for 6 photos -->
@@ -147,9 +147,10 @@ Bachelor of Management in Human Resource Management
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Confuse</figcaption>
     </figure>
   </div>
-</div>
+</div>  
 
 **Photography**
+
 
 **Travel**
 
