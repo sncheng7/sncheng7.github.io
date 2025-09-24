@@ -106,6 +106,7 @@ Bachelor of Management in Human Resource Management
 </div>  
 
 <div style="height:24px;"></div> 
+
 **Cat**  
 <!-- Responsive 3→2→1 grid for 6 photos -->
 <style>
