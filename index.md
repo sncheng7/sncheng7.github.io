@@ -7,8 +7,7 @@ title: Shuning Cheng — Homepage
 
 - **Location**: Vancouver, Canada  
 - **Email**: <chengshuning7@gmail.com>  
-- **Links**: [CV](/assets/ShuningCheng_CV.pdf) · [GitHub](https://github.com/)
-
+- **Links**: [CV](/assets/ShuningCheng_CV.pdf) 
 ---
 
 ## About
@@ -271,12 +270,6 @@ University Counselor Studio Project
     </figure>
   </div>
 </div>
-
----
-
-## Selected Materials
-- **CV**： [PDF](/assets/ShuningCheng_CV.pdf)
-- **Contact**：Email — <chengshuning7@gmail.com>
 
 ---
 
