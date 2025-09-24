@@ -67,6 +67,13 @@ University Counselor Studio Project
 - **PDCA cycle** with an internal platform linking students and counselors  
 - “Counselor Afternoon Tea” and Party group guidance; **UCAS-wide adoption**  
 
+
+**Mar 2020 &ndash; Apr 2020, Geo-demographic Analysis by ZIP — Disney+**  
+- Hierarchical clustering + ANOVA/t-tests on ZIP variables → transfer: equity & access analysis for outreach/services
+
+**Sep 2019 &ndash; Dec 2019, Large-Scale Customer Analytics — Williams-Sonoma**  
+- Segmented ~100k participants; regression for behavior prediction → transfer: student segmentation & retention modeling  
+
 ---
 
 ## Hobbies
