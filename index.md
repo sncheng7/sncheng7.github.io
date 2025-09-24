@@ -62,11 +62,12 @@ Bachelor of Management in Human Resource Management(HRM), GPA: 85.00/100.00
 ## Hobbies
 
 **Cooking for Friends and Family**  
-![Roujiamo](/assets/hobbies/roujiamo.jpg)
-![Dinner With Friends](/assets/hobbies/dinner.jpg)
-![Hand Made Noodles](/assets/hobbies/noodles.jpg)
-
-
+<img src="assets/hobbies/chicken.jpg" alt="Chicken" width="300" loading="lazy">
+<img src="assets/hobbies/roujiamo.jpg" alt="Roujiamo" width="300" loading="lazy">
+<img src="assets/hobbies/noodles.jpg" alt="Hand Made Noodles" width="300" loading="lazy">
+<img src="assets/hobbies/dinner.jpg" alt="Dinner With Friends" width="300" loading="lazy">
+<img src="assets/hobbies/salmon.jpg" alt="Salmon" width="300" loading="lazy">
+<img src="assets/hobbies/pancakes.jpg" alt="Pancakes" width="300" loading="lazy">
 
 **Cat**
 
