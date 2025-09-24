@@ -11,3 +11,15 @@ I led a **Counselor Studio** initiative that introduced a grid-based workflow an
 
 I’m currently preparing to **apply for a PhD in Education**. My current research interest is how **generative AI** can support **personalized psychological counseling** in higher education—helping more students get timely support and better results, while respecting ethics and privacy.
 
+---
+
+## Research Interests
+- Generative AI for mental‑health support
+- Personalization & adaptive interventions
+- Responsible AI in education: ethics, privacy, bias
+- Program evaluation & cost‑effectiveness
+
+---
+
+## News   
+**Sep 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
