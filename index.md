@@ -105,8 +105,50 @@ Bachelor of Management in Human Resource Management
   </div>
 </div>
 
-
 **Cat**
+<!-- Responsive 3→2→1 grid for 6 photos -->
+<style>
+  .grid-3 { 
+    display: grid; 
+    gap: 14px; 
+    grid-template-columns: repeat(3, minmax(0, 1fr)); 
+    align-items: start; 
+  }
+  @media (max-width: 900px) { .grid-3 { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+  @media (max-width: 600px) { .grid-3 { grid-template-columns: 1fr; } }
+  .grid-3 img { width: 100%; height: auto; border-radius: 12px; display: block; }
+  .grid-wrap { max-width: 1080px; margin: 0 auto; }
+</style>
+
+<div class="grid-wrap">
+  <div class="grid-3">
+    <figure style="margin:0">
+      <img src="assets/hobbies/portrait.jpg" alt="Portrait" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Portrait</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/childhood.jpg" alt="Childhood" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Childhood</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/flower.jpg" alt="Flower" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Flower</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/wait.jpg" alt="Waiting Food" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Waiting Food</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/stretch.jpg" alt="Stretch" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Stretch</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/confuse.jpg" alt="Confuse" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Confuse</figcaption>
+    </figure>
+  </div>
+</div>
+
 
 **Photography**
 
