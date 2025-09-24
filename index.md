@@ -149,7 +149,7 @@ Bachelor of Management in Human Resource Management
   </div>
 </div>  
 
-**Photography**
+**Photography**  
 
 
 **Travel**
