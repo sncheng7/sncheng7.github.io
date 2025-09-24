@@ -52,10 +52,10 @@ Marketing Intern (Part-Time)
 ## Education
 
 **August 2019 &ndash; February 2021, Fordham University, New York, US**  
-Master of Science in Marketing Intelligence, GPA: 3.70/4.00
+Master of Science in Marketing Intelligence
 
 **September 2015 &ndash; July 2019, Shandong Technology and Business University, Shandong, China**    
-Bachelor of Management in Human Resource Management(HRM), GPA: 85.00/100.00
+Bachelor of Management in Human Resource Management
 
 ---
 
