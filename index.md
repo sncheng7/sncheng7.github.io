@@ -104,8 +104,8 @@ Bachelor of Management in Human Resource Management
     </figure>
   </div>
 </div>  
-
-**Cat**
+  
+**Cat**  
 <!-- Responsive 3→2→1 grid for 6 photos -->
 <style>
   .grid-3 { 
@@ -148,11 +148,80 @@ Bachelor of Management in Human Resource Management
     </figure>
   </div>
 </div>  
-
+  
 **Photography**  
+<!-- Responsive 3→2→1 grid for 12 photos -->
+<style>
+  .grid-3 { 
+    display: grid; 
+    gap: 14px; 
+    grid-template-columns: repeat(3, minmax(0, 1fr)); 
+    align-items: start; 
+  }
+  @media (max-width: 900px) { .grid-3 { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+  @media (max-width: 600px) { .grid-3 { grid-template-columns: 1fr; } }
+  .grid-3 img { width: 100%; height: auto; border-radius: 12px; display: block; }
+  .grid-wrap { max-width: 1080px; margin: 0 auto; }
+</style>
 
+<div class="grid-wrap">
+  <div class="grid-3">
+    <figure style="margin:0">
+      <img src="assets/hobbies/Jeju.jpg" alt="Jeju Island" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Jeju Island</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/church.jpg" alt="Seaside Church" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Seaside Church</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/tower.jpg" alt="Tokyo Tower" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Tokyo Tower</figcaption>
+    </figure>
 
-**Travel**
+    <figure style="margin:0">
+      <img src="assets/hobbies/flags.jpg" alt="Prayer Flags and Buddhist Temple" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Prayer Flags and Buddhist Temple</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/iron.jpg" alt="Iron Fireworks" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Iron Fireworks</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/guilin.jpg" alt="Guilin Mountains" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Guilin Mountains</figcaption>
+    </figure>
+
+    <figure style="margin:0">
+      <img src="assets/hobbies/horse.jpg" alt="Horse and Lake" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Horse and Lake</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/Lotus.jpg" alt="Lotus" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Lotus</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/Grassland.jpg" alt="Grassland" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Grassland</figcaption>
+    </figure>
+
+    <figure style="margin:0">
+      <img src="assets/hobbies/bridge.jpg" alt="Lions Gate Bridge" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Lions Gate Bridge</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/mountain.jpg" alt="Burnaby Mountain Park" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Burnaby Mountain Park</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/magnolia.jpg" alt="Magnolia" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">magnolia</figcaption>
+    </figure>
+  </div>
+</div>
+  
+**Travel**  
+
 
 ---
 
