@@ -36,21 +36,21 @@ I’m currently preparing to **apply for a PhD in Education**. My current resear
 
 ## Experience
 
-**Mar 2021 &ndash; Jul 2025,  University of Chinese Academy of Sciences, China**  
+**Mar 2021 &ndash; Jul 2025,  University of Chinese Academy of Sciences, Beijing，China**  
 University Counselor & League Secretary (Full-Time)
 - Student advising, crisis response, program coordination  
 - Data‑informed initiatives for student well‑being
 
-**Jan 2017 &ndash; Mar 2017,  Prudential Hong Kong Limited, China**  
+**Jan 2017 &ndash; Mar 2017,  Prudential Hong Kong Limited, Hongkong，China**  
 Marketing Intern (Part-Time)
-- Handled product photography; help select investment options
-- Analyze data and tracke market intelligence
+- Handled product photography; helped select investment options
+- Analyzed data and tracked market intelligence
 
 ---
 
 ## Education
 
-**Aug 2019 &ndash; Feb 2021, Fordham University, New York, US**  
+**Aug 2019 &ndash; Feb 2021, Fordham University, New York, USA**  
 Master of Science in Marketing Intelligence
 
 **Sep 2015 &ndash; Jul 2019, Shandong Technology and Business University, Shandong, China**    
@@ -58,10 +58,10 @@ Bachelor of Management in Human Resource Management
 
 ---
 
-## Project
+## Projects
 
-**Mar 2021 &ndash; Mar 2025, University of Chinese Academy of Sciences, China**  
-University Counselor Studio Project  
+**Mar 2021 &ndash; Mar 2025, University Counselor Studio Project**  
+University of Chinese Academy of Sciences
 - **Inaugural model** construction project 
 - **Grid-based student/class system** for timely check-ins and communication (critical during the pandemic)  
 - **PDCA cycle** with an internal platform linking students and counselors  
@@ -69,12 +69,12 @@ University Counselor Studio Project
 
 
 **Mar 2020 &ndash; Apr 2020, Geo-demographic Analysis by ZIP — Disney+**  
-- Hierarchical clustering + ANOVA/t-tests on ZIP variables  
-→ transfer: equity & access analysis for outreach/services
+Fordham University
+- Hierarchical clustering + ANOVA/t-tests on ZIP variables → transfer: equity & access analysis for outreach/services
 
 **Sep 2019 &ndash; Dec 2019, Large-Scale Customer Analytics — Williams-Sonoma**  
-- Segmented ~100k participants; regression for behavior prediction  
-→ transfer: student segmentation & retention modeling  
+Fordham University
+- Segmented ~100k participants; regression for behavior prediction → transfer: student segmentation & retention modeling  
 
 ---
 
