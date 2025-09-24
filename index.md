@@ -149,7 +149,7 @@ Bachelor of Management in Human Resource Management
   </div>
 </div>  
   
-**Photography**  
+**Photography and Travel**  
 <!-- Responsive 3→2→1 grid for 12 photos -->
 <style>
   .grid-3 { 
