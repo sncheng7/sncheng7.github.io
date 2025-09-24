@@ -62,12 +62,49 @@ Bachelor of Management in Human Resource Management(HRM), GPA: 85.00/100.00
 ## Hobbies
 
 **Cooking for Friends and Family**  
-<img src="assets/hobbies/chicken.jpg" alt="Chicken" width="300" loading="lazy">
-<img src="assets/hobbies/roujiamo.jpg" alt="Roujiamo" width="300" loading="lazy">
-<img src="assets/hobbies/noodles.jpg" alt="Hand Made Noodles" width="300" loading="lazy">
-<img src="assets/hobbies/dinner.jpg" alt="Dinner With Friends" width="300" loading="lazy">
-<img src="assets/hobbies/salmon.jpg" alt="Salmon" width="300" loading="lazy">
-<img src="assets/hobbies/pancakes.jpg" alt="Pancakes" width="300" loading="lazy">
+<!-- Responsive 3→2→1 grid for 6 photos -->
+<style>
+  .grid-3 { 
+    display: grid; 
+    gap: 14px; 
+    grid-template-columns: repeat(3, minmax(0, 1fr)); 
+    align-items: start; 
+  }
+  @media (max-width: 900px) { .grid-3 { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+  @media (max-width: 600px) { .grid-3 { grid-template-columns: 1fr; } }
+  .grid-3 img { width: 100%; height: auto; border-radius: 12px; display: block; }
+  .grid-wrap { max-width: 1080px; margin: 0 auto; }
+</style>
+
+<div class="grid-wrap">
+  <div class="grid-3">
+    <figure style="margin:0">
+      <img src="assets/hobbies/chicken.jpg" alt="Chicken" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Chicken</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/roujiamo.jpg" alt="Roujiamo" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Roujiamo</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/noodles.jpg" alt="Hand Made Noodles" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Hand Made Noodles</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/dinner.jpg" alt="Dinner With Friends" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Dinner With Friends</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/salmon.jpg" alt="Salmon" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Salmon</figcaption>
+    </figure>
+    <figure style="margin:0">
+      <img src="assets/hobbies/pancakes.jpg" alt="Pancakes" loading="lazy">
+      <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Pancakes</figcaption>
+    </figure>
+  </div>
+</div>
+
 
 **Cat**
 
