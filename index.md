@@ -123,15 +123,15 @@ Bachelor of Management in Human Resource Management
 <div class="grid-wrap">
   <div class="grid-3">
     <figure style="margin:0">
-      <img src="assets/hobbies/portrait.jpg" alt="Portrait" loading="lazy">
+      <img src="assets/hobbies/Portrait.jpg" alt="Portrait" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Portrait</figcaption>
     </figure>
     <figure style="margin:0">
-      <img src="assets/hobbies/childhood.jpg" alt="Childhood" loading="lazy">
+      <img src="assets/hobbies/Look.jpg" alt="Childhood" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Childhood</figcaption>
     </figure>
     <figure style="margin:0">
-      <img src="assets/hobbies/flower.jpg" alt="Flower" loading="lazy">
+      <img src="assets/hobbies/Flower.jpg" alt="Flower" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Flower</figcaption>
     </figure>
     <figure style="margin:0">
@@ -143,12 +143,11 @@ Bachelor of Management in Human Resource Management
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Stretch</figcaption>
     </figure>
     <figure style="margin:0">
-      <img src="assets/hobbies/confuse.jpg" alt="Confuse" loading="lazy">
+      <img src="assets/hobbies/Confuse.jpg" alt="Confuse" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Confuse</figcaption>
     </figure>
   </div>
 </div>
-
 
 **Photography**
 
