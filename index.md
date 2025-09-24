@@ -4,7 +4,6 @@ title: Shuning Cheng — Homepage
 ---
 
 # Shuning Cheng 
-> Counselor • Higher Education • Generative AI for Student Well‑Being  
 
 - **Location**: Vancouver, Canada  
 - **Email**: <chengshuning7@gmail.com>  
@@ -14,7 +13,7 @@ title: Shuning Cheng — Homepage
 
 ## About
 
-I’m Shuning Cheng, a University Counselor & League Secretary at the College of Life Sciences, University of Chinese Academy of Sciences. I support **over 1,000 students** with day-to-day advising across academics, well-being, and career planning, and I organize activities and outreach. 
+I’m Shuning Cheng, a **University Counselor** at the College of Life Sciences, University of Chinese Academy of Sciences. I support **over 1,000 students** with day-to-day advising across academics, well-being, and career planning, and I organize activities and outreach. 
 
 I led a **Counselor Studio** initiative that introduced a grid-based workflow and a plan–implementation–feedback–reimplementation cycle to improve communication and student support. 
 
@@ -31,18 +30,18 @@ I’m currently preparing to **apply for a PhD in Education**. My current resear
 ---
 
 ## News 
-- **September 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
+- **Sep 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
 
 ---
 
 ## Experience
 
-**March 2021 &ndash; July 2025,  University of Chinese Academy of Sciences, China**  
+**Mar 2021 &ndash; Jul 2025,  University of Chinese Academy of Sciences, China**  
 University Counselor & League Secretary, College of Life Sciences (Full-Time)
 - Student advising, crisis response, program coordination  
 - Data‑informed initiatives for student well‑being
 
-**January 2017 &ndash; March 2017,  Prudential Hong Kong Limited, China**  
+**Jan 2017 &ndash; Mar 2017,  Prudential Hong Kong Limited, China**  
 Marketing Intern (Part-Time)
 - Handled product photography; help select investment options
 - Analyze data and tracke market intelligence
@@ -51,11 +50,22 @@ Marketing Intern (Part-Time)
 
 ## Education
 
-**August 2019 &ndash; February 2021, Fordham University, New York, US**  
+**Aug 2019 &ndash; Feb 2021, Fordham University, New York, US**  
 Master of Science in Marketing Intelligence
 
-**September 2015 &ndash; July 2019, Shandong Technology and Business University, Shandong, China**    
+**Sep 2015 &ndash; Jul 2019, Shandong Technology and Business University, Shandong, China**    
 Bachelor of Management in Human Resource Management
+
+---
+
+## Project
+
+**Mar 2021 &ndush; Mar 2025, University of Chinese Academy of Sciences, China**  
+University Counselor Studio Project  
+- Inaugural model construction project (university-recognized)  
+- Grid-based student/class system for timely check-ins and communication (critical during the pandemic)  
+- PDCA cycle with an internal platform linking students and counselors  
+- “Counselor Afternoon Tea” and Party group guidance; UCAS-wide adoption  
 
 ---
 
@@ -248,7 +258,7 @@ Bachelor of Management in Human Resource Management
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Dance</figcaption>
     </figure>
     <figure style="margin:0">
-      <img src="assets/hobbies/sing.jpg" alt="Chorus" loading="lazy">
+      <img src="assets/hobbies/sing1.jpg" alt="Chorus" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Chorus</figcaption>
     </figure>
     <figure style="margin:0">
