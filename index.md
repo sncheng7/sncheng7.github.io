@@ -3,80 +3,77 @@ layout: default
 title: Shuning Cheng — Homepage
 ---
 
-# Shuning Cheng  （程舒凝）
-
+# Shuning Cheng 
 > Counselor • Higher Education • Generative AI for Student Well‑Being  
-> 高校辅导员｜高等教育｜生成式 AI 赋能学生心理健康
 
-- **Location / 城市**: Vancouver, Canada（温哥华）  
-- **Email / 邮箱**: <shuningcheng7@gmail.com>  
-- **Links**: [CV](/assets/ShuningCheng_CV.pdf) · [Google Scholar](https://scholar.google.com/) · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
-
----
-
-## About / 简介
-
-**EN.** I am a university counselor focusing on student services and educational innovation. My current research interest is how **generative AI** can support **personalized psychological counseling** in higher education—improving access, triage, and outcomes while safeguarding ethics and privacy.
-
-**中文。** 我是一名高校辅导员，专注学生事务与教育创新。当前研究兴趣：在高等教育场景中，利用 **生成式 AI** 提供 **个性化心理健康支持**——在保障伦理与隐私前提下，提高可及性、分诊效率与干预效果。
+- **Location**: Vancouver, Canada  
+- **Email**: <chengshuning7@gmail.com>  
+- **Links**: [CV](/assets/ShuningCheng_CV.pdf) · [GitHub](https://github.com/)
 
 ---
 
-## Research Interests / 研究兴趣
-- Generative AI for mental‑health support（生成式 AI 心理健康支持）
-- Personalization & adaptive interventions（个性化与自适应干预）
-- Responsible AI in education: ethics, privacy, bias（可信教育AI：伦理、隐私、偏差）
-- Program evaluation & cost‑effectiveness（项目评估与成本‑效益）
+## About
+
+I’m Shuning Cheng, a University Counselor & League Secretary at the College of Life Sciences, University of Chinese Academy of Sciences. I support **over 1,000 students** with day-to-day advising across academics, well-being, and career planning, and I organize activities and outreach. 
+
+I led a **Counselor Studio** initiative that introduced a grid-based workflow and a plan–implementation–feedback–reimplementation cycle to improve communication and student support. 
+
+I’m currently preparing to **apply for a PhD in Education**. My current research interest is how **generative AI** can support **personalized psychological counseling** in higher education—helping more students get timely support and better results, while respecting ethics and privacy.
 
 ---
 
-## News / 动态
-- **2025‑09‑01** — Drafted a proposal on AI‑enabled counseling personalization.  
-  完成“生成式 AI 赋能个性化咨询”研究提案初稿。
+## Research Interests
+- Generative AI for mental‑health support
+- Personalization & adaptive interventions
+- Responsible AI in education: ethics, privacy, bias
+- Program evaluation & cost‑effectiveness
 
 ---
 
-## Projects / 项目
-
-### AI‑assisted counseling triage for university students  
-**面向大学生的 AI 咨询分诊系统**  
-Prototype workflow that routes students to appropriate resources using large‑language‑model reasoning with human‑in‑the‑loop safeguards.  
-基于大语言模型推理并结合人工把关的分诊流程雏形。  
-*Tags:* Prototype · LLM · Human‑in‑the‑loop  
-[Learn more](#)
-
-### Cost‑effectiveness of AI‑mediated counseling  
-**AI 介入咨询服务的成本‑效益研究**  
-Study design exploring incremental outcomes (symptom change, wait‑time reduction) against implementation costs in university settings.  
-在高校场景下，以症状改善、等待时间缩短等增量产出对比实施成本的研究设计。  
-*Tags:* Study design · Evaluation  
-[Learn more](#)
+## News 
+- **September 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
 
 ---
 
-## Experience / 经历
+## Experience
 
-**University Counselor（高校辅导员）** — — Present（至今）  
+**March 2021 &ndash; July 2025,  University of Chinese Academy of Sciences, China**  
+University Counselor & League Secretary, College of Life Sciences (Full-Time)
 - Student advising, crisis response, program coordination  
-- Data‑informed initiatives for student well‑being  
-- 学生咨询与危机响应，项目统筹；数据驱动的身心健康项目
+- Data‑informed initiatives for student well‑being
+
+**January 2017 &ndash; March 2017,  Prudential Hong Kong Limited, China**  
+Marketing Intern (Part-Time)
+- Handled product photography; help select investment options
+- Analyze data and tracke market intelligence
 
 ---
 
-## Education / 教育
+## Education
 
-**Prospective PhD — University of British Columbia (UBC)**  
-拟申请博士（UBC）：AI 赋能高校个性化心理健康服务
+**August 2019 &ndash; February 2021, Fordham University, New York, US**  
+Master of Science in Marketing Intelligence, GPA: 3.70/4.00
 
-**University of Chinese Academy of Sciences (Work Experience)**  
-中国科学院大学（工作经历）：任辅导员；搭建用于咨询服务的 AI 数据库
+**September 2015 &ndash; July 2019, Shandong Technology and Business University, Shandong, China**    
+Bachelor of Management in Human Resource Management(HRM), GPA: 85.00/100.00
+
+---
+
+## Hobbies
+
+**Cooking for Friends and Family**
+
+**Cat**
+
+**Photography**
+
+**Travel**
 
 ---
 
 ## Selected Materials / 资料
-- **CV / 简历**： [PDF](/assets/ShuningCheng_CV.pdf)
-- **Slides / 演示**： [Talk Title (YYYY)](/assets/talk.pdf)
-- **Contact / 联系**：Email — <shuningcheng7@gmail.com>
+- **CV**： [PDF](/assets/ShuningCheng_CV.pdf)
+- **Contact**：Email — <chengshuning7@gmail.com>
 
 ---
 
