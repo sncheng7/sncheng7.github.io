@@ -150,7 +150,9 @@ Bachelor of Management in Human Resource Management
     </figure>
   </div>
 </div>  
-  
+
+<div style="height:24px;"></div> 
+
 **Photography and Travel**  
 <!-- Responsive 3→2→1 grid for 12 photos -->
 <style>
@@ -222,7 +224,9 @@ Bachelor of Management in Human Resource Management
   </div>
 </div>
 
-**Travel**  
+<div style="height:24px;"></div> 
+
+**Arts and Sports**  
 
 
 ---
