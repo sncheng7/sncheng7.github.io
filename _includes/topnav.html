@@ -1,0 +1,17 @@
+<!-- _includes/topnav.html -->
+<style>
+  .topnav{display:flex;gap:12px;margin:0 0 12px}
+  .topnav a{position:relative;padding:2px 0;text-decoration:none}
+  .topnav a.active{font-weight:700}
+  .topnav a.active::after{
+    content:"";position:absolute;left:0;right:0;bottom:-4px;height:2px;background:#0b69ff;
+  }
+</style>
+
+<p class="topnav">
+  <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+  <a href="{{ '/about/' | relative_url }}" class="{% if page.url contains '/about/' %}active{% endif %}">About</a>
+  <a href="{{ '/experience/' | relative_url }}" class="{% if page.url contains '/experience/' %}active{% endif %}">Experience</a>
+  <a href="{{ '/projects/' | relative_url }}" class="{% if page.url contains '/projects/' %}active{% endif %}">Projects</a>
+  <a href="{{ '/hobbies/' | relative_url }}" class="{% if page.url contains '/hobbies/' %}active{% endif %}">Hobbies</a>
+</p>
