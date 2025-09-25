@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Hobbies
-permalink: /hobbies/
+permalink: hobbies/
 ---
+
+{% include topnav.html %}
 
 # Hobbies
 
