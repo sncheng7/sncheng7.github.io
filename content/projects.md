@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+{% include topnav.html %}
+
 # Projects
 
 **Mar 2021 &ndash; Mar 2025, University Counselor Studio Project**  
