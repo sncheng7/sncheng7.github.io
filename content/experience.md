@@ -4,6 +4,8 @@ title: Experience
 permalink: /experience/
 ---
 
+{% include topnav.html %}
+
 # Experience
 
 **Mar 2021 &ndash; Jul 2025,  University of Chinese Academy of Sciences, Beijing，China**  
@@ -25,4 +27,3 @@ Master of Science in Marketing Intelligence
 
 **Sep 2015 &ndash; Jul 2019, Shandong Technology and Business University, Shandong, China**    
 Bachelor of Management in Human Resource Management
-
