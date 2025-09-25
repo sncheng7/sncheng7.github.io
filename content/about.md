@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% include topnav.html %}
+
 # About
 I’m Shuning Cheng, a **University Counselor** at the College of Life Sciences, University of Chinese Academy of Sciences. I support **over 1,000 students** with day-to-day advising across academics, well-being, and career planning, and I organize activities and outreach. 
 
