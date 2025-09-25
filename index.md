@@ -32,7 +32,8 @@ I’m currently preparing to **apply for a PhD in Education**. My current resear
 ---
 
 ## News   
-**Sep 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
+- **I am applying for a PhD/EdD in Education.**  
+- **Sep 2025** — Drafted a proposal on AI‑enabled counseling personalization.  
 
 ---
 
