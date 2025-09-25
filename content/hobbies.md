@@ -35,7 +35,7 @@ permalink: hobbies/
 <div class="grid-wrap">
   <div class="grid-3">
     <figure style="margin:0">
-      <img src="/assets/hobbies/chicken.jpg" alt="Chicken" loading="lazy">
+      <img src="/assets/hobbies/chicken.jpg" alt="Winter Melon Sauna Chicken" loading="lazy">
       <figcaption style="margin-top:6px;font-size:0.9rem;color:#555;">Chicken</figcaption>
     </figure>
     <figure style="margin:0">
