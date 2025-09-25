@@ -27,3 +27,10 @@ Master of Science in Marketing Intelligence
 
 **Sep 2015 &ndash; Jul 2019, Shandong Technology and Business University, Shandong, China**    
 Bachelor of Management in Human Resource Management
+
+---
+
+## Skills
+- Computer Skills: Office, SQL, SAS, SPSS, Python, Git, Markdown, CSS, Google Analytics, Google AdWords, CRM
+- Language Skills: Chinese (Native), English (Proficient): TOEFL Overall 90 
+- Additional Skills: Copywriting, Typesetting the official Account, Taking Photos, Editing Videos
