@@ -1,15 +1,9 @@
-<!-- simple tabs / nav -->
-<p style="margin:0 0 12px;">
-  <a href="/about/" style="margin-right:12px;">About</a>
-  <a href="/experience/" style="margin-right:12px;">Experience</a>
-  <a href="/projects/" style="margin-right:12px;">Projects</a>
-  <a href="/hobbies/">Hobbies</a>
-</p>
-
 ---
 layout: default
 title: Shuning Cheng — Homepage
 ---
+
+{% include topnav.html %}
 
 # Shuning Cheng 
 
