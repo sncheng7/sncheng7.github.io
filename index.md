@@ -19,15 +19,15 @@ I’m Shuning Cheng, a **University Counselor** at the College of Life Sciences,
 
 I led a **Counselor Studio** initiative that introduced a grid-based workflow and a plan–implementation–feedback–reimplementation cycle to improve communication and student support. 
 
-I’m currently preparing to **apply for a PhD in Education**. My current research interest is how **generative AI** can support **personalized psychological counseling** in higher education—helping more students get timely support and better results, while respecting ethics and privacy.
-
+I’m currently preparing to **apply for a PhD in Education**. My current research interest is how **generative AI–mediated support** can help international students build belonging and get timely help, while respecting ethics and privacy and advancing equity across cultures.
 ---
 
 ## Research Interests
+- Immigration and transnationalism
 - Generative AI for mental‑health support
 - Personalization & adaptive interventions
+- Adult education
 - Responsible AI in education: ethics, privacy, bias
-- Program evaluation & cost‑effectiveness
 
 ---
 
