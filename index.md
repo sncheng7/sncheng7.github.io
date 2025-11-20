@@ -24,9 +24,9 @@ I'm currently preparing to **apply for a PhD/EdD in Education**. My current rese
 ---
 
 ## Research Interests
-- Immigration and transnationalism
-- Generative AI for mental‑health support
+- Generative AI for student well-being support
 - Personalization & adaptive interventions
+- Immigration and transnationalism
 - Adult education
 - Responsible AI in education: ethics, privacy, bias
 
