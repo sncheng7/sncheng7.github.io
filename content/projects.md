@@ -7,6 +7,12 @@ permalink: /projects/
 {% include topnav.html %}
 
 # Projects
+**Aug 2025 &ndash; Oct 2025, AI-Empowered Classroom Teaching Improvement — Faculty Survey Analysis**  
+Ludong University
+- Anonymous survey on AI integration; two data rounds, valid dataset 
+- Python analysis: 72% interested, <30% trained 
+- Visual reports and recommendations for faculty development 
+- Reusable workflow for AI-enhanced teaching research 
 
 **Mar 2021 &ndash; Mar 2025, University Counselor Studio Project**  
 University of Chinese Academy of Sciences
